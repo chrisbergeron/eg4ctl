@@ -1,0 +1,4 @@
+/eg4ctl
+dist/
+*.log
+.env
